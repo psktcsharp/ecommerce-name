@@ -10,13 +10,9 @@ export const LOGOUT = "LOGOUT";
 export const TOGGLE_CART_HIDDEN = "TOGGLE_CART_HIDDEN";
 export const ADD_ITEM = "ADD_ITEM";
 export const SET_CURRENT_USER = "SET_CURRENT_USER";
-<<<<<<< HEAD
-export const SAVE_ITEM_DB = "SAVE_ITEM_DB";
-=======
 export const CLEAR_ITEM_FROM_CART = "CLEAR_ITEM_FROM_CART";
 
 export const LOAD_SECTIONS = "LOAD_SECTIONS";
 export const LOAD_SECTIONS_FAIL = "LOAD_SECTIONS_FAIL";
 
 
->>>>>>> 52872a5449644b19a594043008ea4464881a9292
